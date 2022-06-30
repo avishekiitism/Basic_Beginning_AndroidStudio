@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/drawable/bg_round.xml" value="0.2555" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/activity_full_image.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/activity_image_detail.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/activity_main.xml" value="0.12121212121212122" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/activity_music_player.xml" value="0.25" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/activity_news_app.xml" value="0.25" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/activity_photo_manager.xml" value="0.2" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/activity_un_installer.xml" value="0.25" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/card_layout.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/categories_rv_item.xml" value="0.25" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/griditem.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/list_row_item.xml" value="0.25" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/news_rv_item.xml" value="0.25" />
+        <entry key="..\:/Users/Avishek kumar/AndroidStudioProjects/Basic_Beginning/app/src/main/res/layout/row_layout.xml" value="0.22708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
